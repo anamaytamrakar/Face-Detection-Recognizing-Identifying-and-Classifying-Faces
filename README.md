@@ -1,4 +1,4 @@
-# Face-Detection-Recognizing-Identifying-and-Classifying-Faces
+# Face-Mask-Segementation-Face-Detector
 
 Project Description:In this project, my goal is to build a Face Mask Segmentation model which includes building a face detector to locate the position of a face in an image.
 Dataset:WIDER Face Dataset
